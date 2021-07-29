@@ -24,3 +24,9 @@ app.get('/byname', function (req, res) {
 
 console.log("Escuchando en el puerto 3000")
 app.listen(3000)
+
+/* Items.prototype.exclamar = function () {
+    dfgsdftysdr
+    return this + "!"
+}
+console.log("Hola".exclamar()) */
